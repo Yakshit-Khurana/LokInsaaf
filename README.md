@@ -29,4 +29,4 @@ Jurisdiction analyzer helps to find out the court in which the case is to be fil
 ![image](https://github.com/Yakshit-Khurana/LokInsaaf/assets/76546067/9553a275-6007-45de-bcac-b9fbcf3f2ada)
 
 
-[youtube.com/watch?v=Dl0ZosfVApE](https://youtu.be/Dl0ZosfVApE?si=WbV8qvITciF3dFEE)
+[Video of Project](https://youtu.be/Dl0ZosfVApE?si=WbV8qvITciF3dFEE)
