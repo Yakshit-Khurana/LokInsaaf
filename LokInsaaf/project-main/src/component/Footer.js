@@ -6,26 +6,20 @@ const Footer = () => {
     <footer className="footer">
       <div className="container">
         <ul>
-            <li>Tejas garg
-            </li>
-            <li>Vaibhav Malhotra
+            <li>Yakshit Khurana- 01315602721
             </li>
         </ul>
         <ul>
-            <li>Rohan Babbar
-            </li>
-            <li>Yakshit Khurrana
+            <li>Riya Jain- 01815602721
             </li>
         </ul>
         <ul>
-            <li>Shraddha Seth
-            </li>
-            <li>Adit Arora
+            <li>Nandini Sharma- 05515602721
             </li>
         </ul>
       </div>
       <div className="rights">
-        &copy; {new Date().getFullYear()} Your E-Portal Name. All Rights Reserved.
+        &copy; {new Date().getFullYear()} LokInsaaf. All Rights Reserved.
       </div>
     </footer>
   );
