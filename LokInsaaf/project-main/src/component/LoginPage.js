@@ -25,11 +25,11 @@ export default function LoginPage() {
     onSubmit: async (values) => {
       try {
         // Call server API to send the data
-        console.log(values.enrollment, values.password);
-        await axios.post("http://localhost:8080/auth/api/login", {
-          email: values.email,
-          password: values.password,
-        })
+        // console.log(values.enrollment, values.password);
+        // await axios.post("http://localhost:8080/auth/api/login", {
+        //   email: values.email,
+        //   password: values.password,
+        // })
         console.log("Successfully login");
         alert("Successfully login");
 
